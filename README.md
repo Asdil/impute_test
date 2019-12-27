@@ -6,6 +6,6 @@
 2. 打包到pipy后,使用pip install <you package> 安装 </br>
    eg：pip install impute_test </br>
 
-3.使用方法如下</br>
-from impute_test test</br>
+3. 使用方法如下</br>
+from impute_test impute test</br>
 print(test.get_random_int(10))</br>
