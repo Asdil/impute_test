@@ -10,8 +10,8 @@ install:
     - poetry install
 # 这里定义环境变量，用于做ci测试
 env:
-  - test_run1=tests/test_tool1.py
-  - test_run2=tests/test_tool2.py
+  - test_run1=test/test_tool1.py
+  - test_run2=test/test_tool2.py
 # command to run tests
 script:
   - pytest $test_run1
