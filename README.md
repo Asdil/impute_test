@@ -1,4 +1,6 @@
 # impute_test
+[![](https://travis-ci.com/Asdil/impute_test.svg?branch=master)](https://travis-ci.com/Asdil/impute_test)
+
 ### 打包到pipy的示例</br>
 1. 需要新建一个文件夹，文件夹名称与项目名一致***</br>
    自己的代码需要放在这个新建文件夹下面</br>
